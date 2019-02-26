@@ -1,0 +1,22 @@
+{
+  "name": "testDemo",
+  "version": "0.1.0",
+  "summary": "A short description of testDemo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Sandeep/testDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Sandeep": "sandeep@knowledgelens.com"
+  },
+  "source": {
+    "git": "https://github.com/Sandeep/testDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "testDemo/Classes/**/*"
+}
